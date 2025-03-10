@@ -1,1 +1,3 @@
 # Interpolation
+
+This project was part of my Numerical Methods course at university. The main objective was to implement different interpolation methods such the Lagrange interpolation method and the spline interpolation method. Additionally, to develop neccessary algorithms, I implemented  factorization LU with pivoting - one of the methods for solving systems of linear equations - using the Python language programming. 
